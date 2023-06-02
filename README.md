@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/sqqyqqh/eloquentjs-md">
-    <span style="font-size: 7em">🦚<span>
+    <span style="font-size: 100px">🦚<span>
   </a>
 <br/>
 <br/>
