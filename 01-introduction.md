@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/sqqyqqh/eloquentjs-md">
-    <span style="font-size: 100px">🦚<span>
+    <span style="font-size: 100px">:peacock:<span>
   </a>
 <br/>
 <br/>
